@@ -1,7 +1,7 @@
 #app{
   height:90vh;
 }
-.day{
+.night{
   background-color: black;
   color:white;
 }
@@ -10,7 +10,7 @@
   outline:0;
 }
 
-.button_day{
+.button_night{
   background-color:blue;
   color:white; 
 }
